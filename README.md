@@ -1,22 +1,22 @@
 # Colin's Portfolio
 
-# Project 1: Data Science Salaries
+# [Project 1: Data Science Salaries](https://github.com/5pazzem/Colin_Ng_Portfolio/tree/main/DataScienceSalariesProject)
 * Created a project to help data scientists estimate salaries, which may help them negotiate
 * Exploratory Data Analysis
 * Data Preprocessing: Cleaning Null Values
 * Data Visualization with Seaborn
 * Machine learning using XGBoost 
 
-# Project 2: Cervical Cancer
+# [Project 2: Cervical Cancer](https://github.com/5pazzem/Colin_Ng_Portfolio/tree/main/Cervical%20Cancer%20Project)
 * Created a project to detect cervical cancer given biomarkers
 * 96% accuracy with XGBoost
 
-# Project 3: Credit Card Fraud 
+# [Project 3: Credit Card Fraud](https://github.com/5pazzem/Colin_Ng_Portfolio/tree/main/Credit%20Card%20Fraud%20Project)
 * Given a large dataset that has undergone Principle Component Analysis (PCA), I help create a machine learning model to detect credit card fraud
 * Data Preprocessing to deal with highly imbalanced data
 * Machine learning, comparing XGBoost performance against Logistic Regression
 
-# Project 4: Spaceship Titanic
+# [Project 4: Spaceship Titanic](https://github.com/5pazzem/Colin_Ng_Portfolio/tree/main/Spaceship%20Titanic)
 * Kaggle competition to help find lost travelers and rescue them
 * Heavy Data Preprocessing - Cleaning Null Values, dealing with strs, dealing with useless data
 * Training a machine learning model: Random Forest
