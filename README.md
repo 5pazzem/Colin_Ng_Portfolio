@@ -23,7 +23,7 @@
 *Testing the machine learning model
 *Exporting file to competition
 
-# [Project 5: COVID-19 Vulnerability Index] (https://github.com/5pazzem/Colin_Ng_Portfolio/tree/main/COVID-19%20Index)
+# [Project 5: COVID-19 Vulnerability Index](https://github.com/5pazzem/Colin_Ng_Portfolio/tree/main/COVID-19%20Index)
 * Given certain biomarkers, finding who are most at stake of COVID-19
 * Data Preprocessing
 * Machine Learning with: Decision Tree, Random Forest, XGBoost, Neural Networks, and Logistic Regression. All with and without SMOTE
