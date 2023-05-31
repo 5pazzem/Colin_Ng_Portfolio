@@ -10,7 +10,7 @@
 # [Project 2: Cervical Cancer](https://github.com/5pazzem/Colin_Ng_Portfolio/tree/main/Cervical%20Cancer%20Project)
 * Created a project to detect cervical cancer given biomarkers
 * Data Visualiztions using Seaborn
-* Standardized Scaler
+* Data Preprocessing using Standardized Scaler
 * 96% accuracy with XGBoost
 
 # [Project 3: Credit Card Fraud](https://github.com/5pazzem/Colin_Ng_Portfolio/tree/main/Credit%20Card%20Fraud%20Project)
