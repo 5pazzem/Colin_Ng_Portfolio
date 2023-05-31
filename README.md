@@ -14,6 +14,7 @@
 * Data Visualiztions using Seaborn
 * Data Preprocessing using Standardized Scaler
 * 96% accuracy with XGBoost
+![alt_text](https://github.com/5pazzem/Colin_Ng_Portfolio/blob/main/Cervical%20Cancer%20Project/correlation%20matrix.png)
 
 # [Project 3: Credit Card Fraud](https://github.com/5pazzem/Colin_Ng_Portfolio/tree/main/Credit%20Card%20Fraud%20Project)
 * Given a large dataset that has undergone Principle Component Analysis (PCA), I help create a machine learning model to detect credit card fraud
