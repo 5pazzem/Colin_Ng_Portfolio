@@ -17,11 +17,11 @@
 * Machine learning, comparing XGBoost performance against Logistic Regression
 
 # Project 4: Spaceship Titanic
-*Kaggle competition to help find lost travelers and rescue them
-*Heavy Data Preprocessing - Cleaning Null Values, dealing with strs, dealing with useless data
-*Training a machine learning model: Random Forest
-*Testing the machine learning model
-*Exporting file to competition
+* Kaggle competition to help find lost travelers and rescue them
+* Heavy Data Preprocessing - Cleaning Null Values, dealing with strs, dealing with useless data
+* Training a machine learning model: Random Forest
+* Testing the machine learning model
+* Exporting file to competition
 
 # [Project 5: COVID-19 Vulnerability Index](https://github.com/5pazzem/Colin_Ng_Portfolio/tree/main/COVID-19%20Index)
 * Given certain biomarkers, finding who are most at stake of COVID-19
