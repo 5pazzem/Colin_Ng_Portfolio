@@ -7,6 +7,7 @@
 * Data Visualization with Seaborn
 * Machine learning using XGBoost 
 
+
 ![alt_text](https://github.com/5pazzem/Colin_Ng_Portfolio/blob/main/DataScienceSalariesProject/countplot%20for%20work%20year%20and%20experience%20level.png)
 
 # [Project 2: Cervical Cancer](https://github.com/5pazzem/Colin_Ng_Portfolio/tree/main/Cervical%20Cancer%20Project)
@@ -14,6 +15,8 @@
 * Data Visualiztions using Seaborn
 * Data Preprocessing using Standardized Scaler
 * 96% accuracy with XGBoost
+
+
 ![alt_text](https://github.com/5pazzem/Colin_Ng_Portfolio/blob/main/Cervical%20Cancer%20Project/correlation%20matrix.png)
 
 # [Project 3: Credit Card Fraud](https://github.com/5pazzem/Colin_Ng_Portfolio/tree/main/Credit%20Card%20Fraud%20Project)
