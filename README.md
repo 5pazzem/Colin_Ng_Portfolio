@@ -7,7 +7,7 @@
 * Data Visualization with Seaborn
 * Machine learning using XGBoost 
 
-! [alt_text](https://github.com/5pazzem/Colin_Ng_Portfolio/blob/main/DataScienceSalariesProject/countplot%20for%20work%20year%20and%20experience%20level.png)
+![alt_text](https://github.com/5pazzem/Colin_Ng_Portfolio/blob/main/DataScienceSalariesProject/countplot%20for%20work%20year%20and%20experience%20level.png)
 
 # [Project 2: Cervical Cancer](https://github.com/5pazzem/Colin_Ng_Portfolio/tree/main/Cervical%20Cancer%20Project)
 * Created a project to detect cervical cancer given biomarkers
