@@ -43,4 +43,5 @@
 * Key performance indicators, maps, bar charts, area line charts
 * Interactive Filters
 
+![alt_text](https://github.com/5pazzem/Colin_Ng_Portfolio/blob/main/Superstore%20Tableau/98d7950d1671ee85ea7e996f3c94a23b.png)
 
