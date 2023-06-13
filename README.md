@@ -38,13 +38,9 @@
 * Automated Machine Learning
 
 # [Project 6: Super Store Tableau](https://public.tableau.com/app/profile/colin.ng4060/viz/SuperStoreProject_16866658138670/Dashboard1)
-
-*Data visualization with Tableau
-
-*Sales Data
-
-*Key performance indicators, maps, bar charts, area line charts
-
-*Interactive Filters
+* Data visualisation with Tableau
+* Sales Data
+* Key performance indicators, maps, bar charts, area line charts
+* Interactive Filters
 
 
