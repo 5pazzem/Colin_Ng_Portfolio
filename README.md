@@ -37,11 +37,18 @@
 * Machine Learning with: Decision Tree, Random Forest, XGBoost, Neural Networks, and Logistic Regression. All with and without SMOTE
 * Automated Machine Learning
 
-# [Project 6: Super Store Tableau](https://public.tableau.com/app/profile/colin.ng4060/viz/SuperStoreProject_16866658138670/Dashboard1)
+# [Tableau: Super Store Tableau](https://public.tableau.com/app/profile/colin.ng4060/viz/SuperStoreProject_16866658138670/Dashboard1)
 * Data visualisation with Tableau
 * Sales Data
 * Key performance indicators, maps, bar charts, area line charts
 * Interactive Filters
 
-![alt_text](https://github.com/5pazzem/Colin_Ng_Portfolio/blob/main/Superstore%20Tableau/98d7950d1671ee85ea7e996f3c94a23b.png)
+![alt_text](https://github.com/5pazzem/Colin_Ng_Portfolio/blob/main/Tableau/Superstore%20Tableau/98d7950d1671ee85ea7e996f3c94a23b.png)
+
+# [Tableau: Seattle AirBNB] 
+* Data Visualization with Tablea
+* Use case: Friend wants to rent AirBNB and wants to maximize earnings
+  
+
+
 
